@@ -24,3 +24,4 @@ public class AceApplication {
 
 //to access H2 database
 //URL : http://localhost:8080/h2-ui/
+// database url : jdbc:h2:mem:acedb
